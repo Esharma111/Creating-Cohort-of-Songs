@@ -1,7 +1,6 @@
 📌 Project Overview
 
-This project focuses on analyzing a Spotify dataset to create cohorts of songs based on their features using clustering techniques. The goal is to group similar songs together and recommend top albums based on song popularity.
-
+This project focuses on analyzing a Spotify dataset to create cohorts of songs based on their features using clustering techniques. The goal is to group similar songs together.
 
 🔍 Key Steps Performed
 
